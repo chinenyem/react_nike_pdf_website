@@ -2,7 +2,7 @@
 
 Here is a preview of the website I created within day, and it is responsive made with reactjs. 
 
-http://www.react-pdf-nike.firebaseapp.com
+https://react-pdf-nike.firebaseapp.com/
 
 Hello, this is a nike pdf mock up turned into a website. I used react and styled componenets modules. You will have to run npm init to download the dependencies. Then run npm start. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
   
